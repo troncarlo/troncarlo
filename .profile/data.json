@@ -1,0 +1,192 @@
+{
+ "key": "c498fcb",
+ "stars": 6,
+ "contributions": 457,
+ "repos": 5,
+ "followers": 6,
+ "languages": [
+  [
+   "JavaScript",
+   617477
+  ],
+  [
+   "Python",
+   2284
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 9,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 9
+ },
+ "pins": [
+  {
+   "name": "giusebot",
+   "url": "https://github.com/troncarlo/giusebot",
+   "text": "miglior bot zozzapp in italia!!!",
+   "fork": false,
+   "stars": 5,
+   "language": "JavaScript",
+   "topics": [
+    "baileys",
+    "bot",
+    "md",
+    "whatsapp",
+    "zykbot"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "giusebot",
+   "url": "https://github.com/troncarlo/giusebot",
+   "text": "miglior bot zozzapp in italia!!!",
+   "fork": false,
+   "stars": 5,
+   "language": "JavaScript",
+   "topics": [
+    "baileys",
+    "bot",
+    "md",
+    "whatsapp",
+    "zykbot"
+   ]
+  },
+  {
+   "name": "lastfm-listener-for-discord",
+   "url": "https://github.com/troncarlo/lastfm-listener-for-discord",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "troncarlo",
+   "url": "https://github.com/troncarlo/troncarlo",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "files.giusebot.xyz",
+   "url": "https://github.com/troncarlo/files.giusebot.xyz",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "varebot",
+   "url": "https://github.com/troncarlo/varebot",
+   "text": "Whatsapp bot - MD",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
