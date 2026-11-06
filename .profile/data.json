@@ -1,14 +1,10 @@
 {
- "key": "1439d412",
- "stars": 10,
- "contributions": 464,
- "repos": 5,
+ "key": "bd78480b",
+ "stars": 1,
+ "contributions": 477,
+ "repos": 4,
  "followers": 6,
  "languages": [
-  [
-   "JavaScript",
-   617477
-  ],
   [
    "Python",
    2284
@@ -116,7 +112,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 13,
     "day": 6,
     "today": true
    },
@@ -124,42 +120,11 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 9
  },
- "pins": [
-  {
-   "name": "giusebot",
-   "url": "https://github.com/troncarlo/giusebot",
-   "text": "miglior bot zozzapp in italia!!!",
-   "fork": false,
-   "stars": 9,
-   "language": "JavaScript",
-   "topics": [
-    "baileys",
-    "bot",
-    "md",
-    "whatsapp",
-    "zykbot"
-   ]
-  }
- ],
+ "pins": [],
  "all": [
-  {
-   "name": "giusebot",
-   "url": "https://github.com/troncarlo/giusebot",
-   "text": "miglior bot zozzapp in italia!!!",
-   "fork": false,
-   "stars": 9,
-   "language": "JavaScript",
-   "topics": [
-    "baileys",
-    "bot",
-    "md",
-    "whatsapp",
-    "zykbot"
-   ]
-  },
   {
    "name": "lastfm-listener-for-discord",
    "url": "https://github.com/troncarlo/lastfm-listener-for-discord",
