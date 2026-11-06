@@ -1,5 +1,5 @@
 {
- "key": "abf500d1",
+ "key": "1439d412",
  "stars": 10,
  "contributions": 464,
  "repos": 5,
@@ -113,9 +113,13 @@
    {
     "c": 1,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
