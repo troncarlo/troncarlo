@@ -8,7 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/troncarlo/lastfm-listener-for-discord"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lastfm-listener-for-discord-dark.svg"><img src="assets/project-lastfm-listener-for-discord-light.svg" width="49%" alt="lastfm-listener-for-discord"></picture></a>
+<a href="https://github.com/troncarlo/giusebot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-giusebot-dark.svg"><img src="assets/project-giusebot-light.svg" width="49%" alt="giusebot"></picture></a>&nbsp;<a href="https://github.com/troncarlo/lastfm-listener-for-discord"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lastfm-listener-for-discord-dark.svg"><img src="assets/project-lastfm-listener-for-discord-light.svg" width="49%" alt="lastfm-listener-for-discord"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

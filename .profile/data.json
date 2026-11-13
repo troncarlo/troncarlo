@@ -1,10 +1,14 @@
 {
- "key": "f8c9aea4",
- "stars": 1,
- "contributions": 524,
- "repos": 4,
+ "key": "79543bf0",
+ "stars": 2,
+ "contributions": 527,
+ "repos": 5,
  "followers": 6,
  "languages": [
+  [
+   "JavaScript",
+   617477
+  ],
   [
    "Python",
    2284
@@ -112,7 +116,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 13,
     "today": true
    },
@@ -120,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 9
  },
  "pins": [],
@@ -135,13 +139,33 @@
    "topics": []
   },
   {
+   "name": "giusebot",
+   "url": "https://github.com/troncarlo/giusebot",
+   "text": "miglior bot zozzapp in italia!!!",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "baileys",
+    "bot",
+    "md",
+    "whatsapp",
+    "zykbot"
+   ]
+  },
+  {
    "name": "troncarlo",
    "url": "https://github.com/troncarlo/troncarlo",
    "text": "My GitHub profile",
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
+   "topics": [
+    "profile",
+    "profile-readme",
+    "readme",
+    "readme-profile"
+   ]
   },
   {
    "name": "files.giusebot.xyz",
