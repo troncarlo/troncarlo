@@ -2,7 +2,7 @@
   "version": 1,
   "login": "troncarlo",
   "seed": "#4285F4",
-  "seedFromAvatar": true,
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -21,17 +21,17 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "",
+    "subtitle": "I build interfaces and small useful tools.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
-        "icon": "code",
-        "label": "TypeScript · Python · JavaScript "
+        "icon": "location_on",
+        "label": "Earth"
       },
       {
-        "icon": "location_on",
-        "label": "Italy"
+        "icon": "code",
+        "label": "TypeScript · Python"
       }
     ]
   },
@@ -69,6 +69,26 @@
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "NodeJS"
+          },
+          {
+            "icon": "brand:npm",
+            "label": "NPM"
+          },
+          {
+            "icon": "brand:whatsapp",
+            "label": "WhatsApp Bot Dev"
           }
         ]
       },
@@ -92,11 +112,8 @@
     ]
   },
   "projects": {
-    "source": "manual",
-    "repos": [
-      "giusebot",
-      "lastfm-listener-for-discord"
-    ],
+    "source": "pinned",
+    "repos": [],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
@@ -122,11 +139,15 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/troncarlo"
+        "url": "https://t.me/"
       },
       {
-        "icon": "brand:whatsapp",
-        "url": "https://wa.me/351920561775"
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
       }
     ],
     "variant": "chip",
@@ -138,7 +159,7 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://giusebot.xyz/",
+        "url": "https://example.com",
         "style": "filled"
       },
       {
