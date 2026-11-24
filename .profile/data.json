@@ -1,7 +1,7 @@
 {
- "key": "8839c3ae",
+ "key": "d88605c",
  "stars": 2,
- "contributions": 538,
+ "contributions": 537,
  "repos": 5,
  "followers": 6,
  "languages": [
@@ -101,7 +101,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 24,
     "today": true
    },
@@ -142,6 +142,15 @@
    ]
   },
   {
+   "name": "LiquidTab",
+   "url": "https://github.com/troncarlo/LiquidTab",
+   "text": "An LSPosed module that adds floating liquid glass navigation bars to Android apps.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "troncarlo",
    "url": "https://github.com/troncarlo/troncarlo",
    "text": "My GitHub profile",
@@ -154,15 +163,6 @@
     "readme",
     "readme-profile"
    ]
-  },
-  {
-   "name": "files.giusebot.xyz",
-   "url": "https://github.com/troncarlo/files.giusebot.xyz",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
   },
   {
    "name": "varebot",
