@@ -1,7 +1,7 @@
 {
- "key": "cb4592b9",
+ "key": "f62c4897",
  "stars": 2,
- "contributions": 537,
+ "contributions": 538,
  "repos": 5,
  "followers": 6,
  "languages": [
@@ -101,11 +101,15 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
@@ -117,6 +121,15 @@
  },
  "pins": [],
  "all": [
+  {
+   "name": "LiquidTab",
+   "url": "https://github.com/troncarlo/LiquidTab",
+   "text": "An LSPosed module that adds floating liquid glass navigation bars to Android apps.",
+   "fork": true,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
   {
    "name": "lastfm-listener-for-discord",
    "url": "https://github.com/troncarlo/lastfm-listener-for-discord",
@@ -140,15 +153,6 @@
     "whatsapp",
     "zykbot"
    ]
-  },
-  {
-   "name": "LiquidTab",
-   "url": "https://github.com/troncarlo/LiquidTab",
-   "text": "An LSPosed module that adds floating liquid glass navigation bars to Android apps.",
-   "fork": true,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
   },
   {
    "name": "troncarlo",
